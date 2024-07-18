@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<style>
+			form {
+				background-color: #f8f8f8;
+				width: 300px;
+				display: flex;
+				padding: 20px;
+				flex-wrap: wrap;
+			}
+
+			#input {
+				width: 100%;
+				padding: 15px;
+				outline: none;
+				border-radius: 5px;
+				border: 1px solid #ddd;
+			}
+
+			.button {
+				width: 100%;
+				padding: 15px;
+				border: none;
+				border-radius: 5px;
+				margin-top: 5px;
+				background-color: #428d70;
+				color: #fff;
+				font-weight: 700;
+				cursor: pointer;
+			}
+
+			.button:hover {
+				background-color: #499a7b;
+			}
+		</style>
+	</head>
+	<body>
+		<form>
+			<input type="text" id="input" placeholder="Image URL" />
+			<input type="submit" class="button" value="Go!" />
+		</form>
+
+		<script src="script.js"></script>
+	</body>
+</html>

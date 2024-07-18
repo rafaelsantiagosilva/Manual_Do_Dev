@@ -1,0 +1,3 @@
+# Não funciona D:
+
+- Docs: [Documentação oficial do Chrome](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0NDSnlvOVE0WkRia0s3T3M4SDBNREVQQlRDZ3xBQ3Jtc0tuSnlzS2o2WDlMLXdHN3RJc3BOeDJKNjR1QmFBZUNpM3lDMXJscmRWVzhNeVNLUFV6WlZad1gyd0dKVDRsWWZBOTNxUGRoRzBZTVRTaDVkQnVFYVl6ZVpBX0xzby1VdU4yVGhMOHBWSm9tZHlpUzMyaw&q=https%3A%2F%2Fdeveloper.chrome.com%2Fdocs%2Fextensions%2Fmv3%2Fgetstarted%2F&v=pdBtFnheeKE)
